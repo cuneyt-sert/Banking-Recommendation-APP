@@ -1,7 +1,7 @@
 # Banking-Recommendation-APP
 
 <br>
-                            |      <img height="250"  src="https://github.com/cuneyt-sert/Banking-Recommendation-APP/blob/1a16b95a25580fe74a6b136234a1c30b28eacc1d/banking.jpg"/>
+<img height="250"  src="https://github.com/cuneyt-sert/Banking-Recommendation-APP/blob/1a16b95a25580fe74a6b136234a1c30b28eacc1d/banking.jpg"/>
 <br>
 
 
@@ -10,7 +10,7 @@ An application that offers products not used by the customer but used by similar
 Due to the confidentiality of bank customer data, the data were generated randomly.
 
 <br>
-<img height="250" (https://files.realpython.com/media/random_data_watermark.576078a4008d.jpg)/>
+<img height="250" src="https://github.com/cuneyt-sert/Banking-Recommendation-APP/blob/132aa0436b7d91bf657afc9171e9e0b0f038f60d/random%20data.jpg"/>
 <br>
 
 Type to search
