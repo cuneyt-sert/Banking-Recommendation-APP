@@ -159,7 +159,7 @@ def main():
         with col1:
             st.write(' ')
         with col2:
-            st.image("/Users/Lenovo/Desktop/ISTDSA/proje5/sunum objeleri/banking.jpg", width=350)
+            st.image("banking.jpg", width=350)
         with col3:
             st.write(' ')
 
