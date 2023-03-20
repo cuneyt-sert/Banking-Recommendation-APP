@@ -27,7 +27,7 @@ def main():
 
     
     
-    df = pd.read_csv("/Users/Lenovo/desktop/ISTDSA/proje5/BankRandomData15thousand.csv")
+    df = pd.read_csv("BankRandomData15thousand.csv")
     df= df.drop(columns=["Unnamed: 0", "age","gender","CityOfBirth","dateOfCustomer","depositAverage"])
 
     df_new= df.copy()
@@ -104,7 +104,7 @@ def main():
             
             
             st.success("VENN DIAGRAM")
-            df = pd.read_csv("/Users/Lenovo/desktop/ISTDSA/proje5/BankRandomData15thousand.csv")
+            df = pd.read_csv("BankRandomData15thousand.csv")
             df= df.drop(columns=["Unnamed: 0", "age","gender","CityOfBirth","dateOfCustomer","depositAverage"])
 
             df_new= df.copy()
