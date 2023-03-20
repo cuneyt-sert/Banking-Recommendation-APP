@@ -118,7 +118,7 @@ def main():
             df_new.reset_index(inplace=True)
             df_new.drop(columns=["index"],inplace=True)
 
-            df_new[:10001].to_csv("/Users/Lenovo/desktop/ISTDSA/proje5/streamlit_random_data.csv")
+            
 
             df_new.values[:,2] = df_new.values[:,2].astype(str)
             matrix = df_new[:10001].values[:,2:]
