@@ -82,7 +82,7 @@ def main():
 
 
     if choice == "Home":
-        st.subheader("What is The Recommendations ?")
+        st.subheader("What is The Recommendation ?")
 
                 
         with st.form(key="customer_id"):
